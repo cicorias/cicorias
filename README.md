@@ -1,4 +1,10 @@
-### Hi there 👋
+### Shawn Cicoria 👋
+
+I'm a full stack long history distributed systems, database, AI and machine learning developer currently at Microsoft in the [Commercial Software Engineering group.](https://devblogs.microsoft.com/cse/)
+
+My home blog is [Cicoria.com](https://www.cicoria.com)
+
+[Linkedin](https://www.linkedin.com/in/shawncicoria/)
 
 <!--
 **cicorias/cicorias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
