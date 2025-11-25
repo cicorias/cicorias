@@ -1,6 +1,11 @@
 ### Shawn Cicoria 👋
 
+```shell
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cicorias&count_private=true&show_icons=true&theme=onedark)]()
+```
+
+> [!NOTE]
+> Seems [https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app} is down -- so, lacking stats at the moment....
 
 I'm a full stack long history distributed systems, database, AI and machine learning developer currently at Microsoft in the [Commercial Software Engineering group.](https://devblogs.microsoft.com/cse/)
 
