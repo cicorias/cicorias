@@ -1,8 +1,13 @@
 ### Shawn Cicoria 👋
 
-```shell
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cicorias&count_private=true&show_icons=true&theme=onedark)]()
-```
+<div align="center">
+  <a href="https://commit-history.com/cicorias">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/cicorias?theme=dark" />
+      <img alt="cicorias's commit history" src="https://commit-history.com/embed/cicorias" />
+    </picture>
+  </a>
+</div>
 
 > [!NOTE]
 > Seems [https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app} is down -- so, lacking stats at the moment....
